@@ -1,0 +1,11 @@
+pip install opencv-python
+pip install imutils 
+pip install -U wxPython
+pip install playsound 
+pip install pyaudio 
+pip install contrib-python(check)?
+pip install threaded
+pip install pygame
+pip install pillow
+#sudo pip install xlsxwriter
+pip3 list --no-cache-dir --outdated 
