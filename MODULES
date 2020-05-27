@@ -1,0 +1,4 @@
+MODULES REQUIRED 
+1. pip install opencv-python
+2. pip install python-contrib-opencv
+3. pip install numpy
